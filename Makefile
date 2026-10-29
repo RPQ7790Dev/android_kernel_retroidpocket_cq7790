@@ -1147,7 +1147,7 @@ ext-mod-dir := ../cq7790s-modules
 ext-mod-dirs := \
 	$(ext-mod-dir)/qcom/opensource/audio-kernel \
 	$(ext-mod-dir)/qcom/opensource/dataipa/drivers/platform/msm \
-	$(ext-mod-dir)/qcom/opensource/display-drivers \
+	$(ext-mod-dir)/qcom/opensource/display-drivers-5.10 \
  	$(ext-mod-dir)/qcom/opensource/mm-sys-kernel/ubwcp \
  	$(ext-mod-dir)/qcom/opensource/securemsm-kernel/smmu-proxy \
 	$(ext-mod-dir)/qcom/opensource/video-kernel \
